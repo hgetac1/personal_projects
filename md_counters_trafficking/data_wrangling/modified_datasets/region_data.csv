@@ -1,0 +1,18 @@
+year,countyDeptName ,regionNumber,regionArrestTotal,commercialSexTotal,involuntaryServitudeTotal,commercialSexCountyTotal,involuntaryServCountyTotal,unemployed
+2015,DorchesterCo,1,1,0,1,0,1,1439
+2015,CalvertCo,2,6,1,5,1,5,2397
+2015,FredrickCo,3,1,1,0,1,0,6738
+2015,MontgomeryCo,4,8,7,1,7,1,23788
+2015,BaltimoreCo,5,333,330,3,22,2,26788
+2015,Anne ArundelCo,5,333,330,3,308,1,15061
+2016,CecilCo,1,2,1,1,0,1,3719
+2016,WorchesterCo (Ocean City PD) ,1,2,1,1,1,0,3629
+2016,FredrickCo,3,2,2,0,2,0,5546
+2016,MontgomeryCo,4,3,1,2,1,2,19892
+2016,BaltimoreCo,5,12,9,3,7,2,22266
+2016,Anne ArundelCo,5,12,9,3,0,1,12452
+2017,HowardCo,5,12,9,3,2,0,6203
+2018,FredrickCo,3,1,0,1,0,1,5445
+2018,MontgomeryCo,4,24,22,2,17,0,20042
+2018,PrinceGeorgesCo,4,24,22,2,10,4,22982
+2018,BaltimoreCo,5,6,6,0,0,6,20886
