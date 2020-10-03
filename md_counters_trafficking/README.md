@@ -28,4 +28,4 @@ Main Takeaways:
 ### Could this project be applied to an actual business problem? 
 company x could save (costs)...from focusing more on ...
 
-## Credits & Resources Used
+## creditsresources
