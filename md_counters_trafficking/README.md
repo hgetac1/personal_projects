@@ -2,7 +2,7 @@
 
 Project at a glance: 
 
-Quick Takeaways: 
+Main Takeaways: 
 
 ## Table of Contents
 
