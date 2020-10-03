@@ -2,6 +2,8 @@
 
 Project at a glance: 
 
+Quick Takeaways: 
+
 ## Table of Contents
 
 - [The Why](#data)
