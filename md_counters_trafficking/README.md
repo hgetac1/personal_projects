@@ -8,7 +8,7 @@ Main Takeaways:
 
 - [The Why](#data)
 - [Data](#data)
-- [The Findings](#thefindings)
+- [The Findings](#the findings)
 - [Technical Overview](#technicaloverview)
 - [Credits & Resources Used](#credits&resourcesused)
 ***
