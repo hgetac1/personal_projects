@@ -16,6 +16,13 @@ Main Takeaways:
 <a id='findings'></a>
 ## Data
 
+Region I – Eastern Shore Caroline County Cecil County Dorchester County Kent County Queen Anne’s County Somerset County Talbot County Wicomico County Worcester County
+Region II – Southern Maryland Calvert County Charles County St. Mary’s County
+Region III – Western Maryland Allegany County Carroll County Frederick County Garrett County Washington County
+Region IV – Washington Metropolitan Montgomery County Prince George’s County
+Region V – Baltimore Metropolitan Anne Arundel County Baltimore City Baltimore County Harford County Howard County
+
+
 ## The Findings
 ### Could this project be applied to an actual business problem? 
 company x could save (costs)...from focusing more on ...
