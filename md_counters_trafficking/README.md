@@ -8,9 +8,9 @@ Main Takeaways:
 
 - [The Why](#data)
 - [Data](#data)
-- [The Findings](#findings)
+- [The Findings](#thefindings)
 - [Technical Overview](#technicaloverview)
-- [Credits & Resources Used](#creditsresources)
+- [Credits & Resources Used](#credits&resourcesused)
 ***
 
 <a id='findings'></a>
@@ -28,4 +28,4 @@ Main Takeaways:
 ### Could this project be applied to an actual business problem? 
 company x could save (costs)...from focusing more on ...
 
-## creditsresources
+## Credits & Resources Used
